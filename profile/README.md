@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### About Us
+
+Monsoon is an Overwatch-focused Esports team set out on a mission to create an environment that strives for true equality between all members, players or otherwise, in order to maintain the overarching goal of representation and enjoyment. We believe that you can truly be happy whilst also working towards the goal of being a successful team in the Overwatch community. Everything we do within the team is democratic. Whether it be in-game or out. 
+
 <!--
 
 **Here are some ideas to get you started:**
